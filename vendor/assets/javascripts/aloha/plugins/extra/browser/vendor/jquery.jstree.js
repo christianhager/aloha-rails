@@ -11,7 +11,7 @@ define(['aloha/jquery'], function(jQuery) {
  *   http://www.opensource.org/licenses/mit-license.php
  *   http://www.gnu.org/licenses/gpl.html
  *
- * $Date: 2011-02-09 01:17:14 +0200 (ÑÑ, 09 ÑÐµÐ²Ñ 2011) $
+ * $Date: 2011-02-09 01:17:14 +0200 (ср, 09 февр 2011) $
  * $Revision: 236 $
  */
 

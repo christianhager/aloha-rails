@@ -3,10 +3,11 @@
  * 
  * http://jzaefferer.github.com/undo
  *
- * Copyright (c) 2011 JÃ¶rn Zaefferer
+ * Copyright (c) 2011 Jörn Zaefferer
  * MIT licensed.
  */
 (function() {
+	
 
 // based on Backbone.js' inherits	
 var ctor = function(){};
@@ -30,6 +31,7 @@ var inherits = function(parent, protoProps) {
 };
 
 function extend(target, ref) {
+	var name;
 	for ( name in ref ) {
 		var value = ref[name];
 		if (value !== undefined) {
